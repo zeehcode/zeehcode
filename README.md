@@ -1,5 +1,7 @@
 <h3>I'm Computer Engineering Student. Passionate About Technology, Engineering, and Designing. </h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=zeehcode&color=blue)
+
 - 🔭 I’m currently working on 
 
 - 📫 you can reach me at: **johnerrol.dev@gmail.com**
